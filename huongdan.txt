@@ -1,0 +1,30 @@
+Chỉ dẫn nội dung:
+
+Các tệp trong các thư mục này là các gói tính năng (ngoài các gói mặc định có sẵn sau khi cài đặt) mà:
+- Được chọn lọc, đã được cài đặt, chạy thử thành công.
+- Được chỉnh sửa theo mục đích sử dụng cụ thể (thêm bớt so với bản gốc của lập trình viên).
+- Phân loại theo Com, Mod, Plg, ... để tiện theo quản lý và tìm kiếm.
+- Hiện đang sử dụng. Các gói tính năng khác có thể đã được thử nghiệm nhưng chưa sử dụng được để tại một thư mục riêng.
+
+
+
+Danh sách các gói tính năng: 
+
+COM:
+
+
+
+ 
+MOD: 
+
+
+
+
+PLG: 
+
+
+
+TMP:
+
+
+

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<metafile version="1.5" client="installation" >
+   <tag>vi-VN</tag>
+   <name>Vietnamese-Viet Nam</name>
+   <description>Vietnamese language installation for Joomla</description>
+   <version>1.5.20</version>
+   <creationDate>2010-07-20</creationDate>
+   <author>Joomla Viet Nam Translation Team</author>
+   <copyright>Copyright (C) 2005 - 2009 Open Source Matters. All rights reserved</copyright>
+   <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+   <metadata>
+       <name>Vietnamese - VN</name>
+       <tag>vi-VN</tag>
+       <rtl>0</rtl>
+       <locale>vi_VN.utf8, vi_VN.UTF-8, vi_VN.UTF-8@asia, vietnamese, vi_VN</locale>
+       <winCodePage>iso-8859-1</winCodePage>  // legacy locale used in Joomla 1.0.x
+       <backwardLang>vietnamese</backwardLang> //legacy language name used in Joomla 1.0.x
+    </metadata>
+    <params />
+</metafile>
